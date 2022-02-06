@@ -22,5 +22,5 @@ Explainable models can help their users make better use of the outputs such mode
 |Python Basic for data scence|![#f8f8f8](https://via.placeholder.com/10/0a192f?text=+)  |
 |Pandas Overview | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+)  |
 |Numpy Overview | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+)  |
-|Data visualsation| ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)  |
+|Data visualzation| ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+)  |
 
